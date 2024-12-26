@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Valekum assalom !!!");
 
+        System.out.println("Man o'zgartirish qildim");
+
     }
 }
